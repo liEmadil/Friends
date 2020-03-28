@@ -1,0 +1,6 @@
+﻿token=NjkzMzY4ODA2NjQ2NzQzMDQw.Xn8EDw.ixZez9zzgbFwv8En5fPMMyaxPIo
+owner=255429901891403778 
+prefix=F1
+game=Friends 
+stayinchannel=true
+songinstatus=true 
